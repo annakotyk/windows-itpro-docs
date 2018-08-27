@@ -90,7 +90,7 @@ The deployment script displays the following exit codes to let you know if it wa
         <td BGCOLOR="#a0e4fa">Suggested fix</td>
     </tr>
     <tr><td>0 - Success</td>
-        <td>N/A</td>
+        <td> No fix needed, executed successfully </td>
     </tr>
     <tr>
         <td>1 - Unexpected error occurred while executiEng the script.</td>
